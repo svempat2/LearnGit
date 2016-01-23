@@ -1,3 +1,6 @@
 This is a Git file
 Made this to teach my friends about git
 
+
+Made chages
+
